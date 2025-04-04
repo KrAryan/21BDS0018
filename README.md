@@ -13,7 +13,7 @@ The **Python code has been developed and executed in Google Colab**, ensuring a 
 
 ## 📌 Reference Notebook
 The analysis and implementation are available in the **notebook submitted for evaluation**:  
-🔗 **[View Notebook](https://github.com/KrAryan/21BDS0018/blob/main/21BDS0018.ipynb)**  
+🔗 **[View Notebook](https://colab.research.google.com/drive/1cHo-mCvkF87Et7lV6WgNF1N7_7hk7Gj2?usp=sharing)**  
 
 ---
 
